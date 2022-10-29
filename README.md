@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working for a local bank.
 
-- 🌱 My project includes building data & analytics processing platform and data science use cases.
+- 🌱 I involve in data management, data engineering, data monetization and cloud operations.
 
 - 🤝 My interest is in data & analytics processing platform, data science modelling & workflow optimization.
 
