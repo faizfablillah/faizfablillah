@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Faiz
-- 👀 I'm currently leading the data & analytics department for a bank in Malaysia
-- 🌱 I’m enjoy solving business problems
-- 📫 You can email me at faizfablillah@gmail.com
+<h1 align="center">Hi 👋, I'm Faiz Fablillah
+<h3 align="center">A passionate Data & Analytics Lead from Malaysia! </h3>
 
-<!---
-faizfablillah/faizfablillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+  
+  
+- 🔭 I’m currently working for a local bank.
+
+- 🌱 My project includes building data & analytics processing platform and data science use cases.
+
+- 🤝 My interest is in data & analytics processing platform, data science modelling & workflow optimization.
+
+- 📫 How to reach me **faizfablillah@gmail.com**
