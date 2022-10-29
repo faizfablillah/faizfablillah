@@ -13,4 +13,4 @@
 
 - 🤝 My interest is in data & analytics processing platform, data science modelling & workflow optimization.
 
-- 📫 How to reach me **faizfablillah@gmail.com**
+- 📫 Reach me at **faizfablillah@gmail.com**
