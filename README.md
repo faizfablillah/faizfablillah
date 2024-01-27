@@ -7,7 +7,7 @@
 
   
   
-- 🔭 I’m currently working for a local bank.
+- 🔭 I’m currently working for a home-appliance company.
 
 - 🌱 I involve in data management, data engineering, data monetization and cloud operations.
 
